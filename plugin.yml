@@ -1,0 +1,6 @@
+name: HyperEconSigns
+main: uk.co.ElmHoe.HyperEconSigns.HyperEconSigns
+version: 0.1
+author: ElmHoe
+load: POSTWORLD
+depend: [Vault,HyperCloudUtils,HolographicDisplays]
